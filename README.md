@@ -12,7 +12,7 @@ $git clone https://github.com/MrTamfanX/akas-metasploit
 
 $cd akas-metasploit
 
-$perl akas-metasploit
+$perl akas-metasploit.pl
 
 
 Tunggu hingga selesai dan jangan kamu exit dari terminal tersebut, Dan anda harus pastikan jaringan anda bagus, Jika tidak bagus langsung exit aja tidak perlu install tunggu di lain hari.
